@@ -6,12 +6,16 @@ Repository of completed assignments in the course *DD2423 Image Processing and C
 ## Laboration 1 - Filtering operations
 
 ### Fourier transforms
-<img src="images/ft.jpg" alt="drawing" width="350" style="background: aliceblue"/>
-<br> Continuous fourier transform<br>
-<br>
+<p>
+    <img src="images/ft.jpg" alt="drawing" width="350" />
+    <br><em>Continuous fourier transform</em>
+</p>
 
-<img src="images/discrete_ft.jpg" alt="drawing" width="350" style="background: aliceblue"/>
-<br> Discrete fourier transform
+<p>
+    <img src="images/discrete_ft.jpg" alt="drawing" width="350" />
+    <br><em>Discrete fourier transform</em>
+</p>
+
 ### Common Properties of Fourier Transforms
 
 >#### 1. Linearity
